@@ -1,0 +1,15 @@
+{
+    "name": "hgati/Apptrian-Minify",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description": "composer version of Apptrian_Minify",
+
+    "extra": {
+        "map": [
+            ["app/code/community/Apptrian/Minify", "app/code/community/Apptrian/Minify"],
+            ["app/etc/modules/Apptrian_Minify.xml", "app/etc/modules/Apptrian_Minify.xml"],
+            ["app/locale/en_US/Apptrian_Minify.csv", "app/locale/en_US/Apptrian_Minify.csv"],
+            ["lib/Apptrian/Minify", "lib/lib/Apptrian/Minify"]
+        ]
+    }
+}
