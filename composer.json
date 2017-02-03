@@ -9,7 +9,7 @@
             ["app/code/community/Apptrian/Minify", "app/code/community/Apptrian/Minify"],
             ["app/etc/modules/Apptrian_Minify.xml", "app/etc/modules/Apptrian_Minify.xml"],
             ["app/locale/en_US/Apptrian_Minify.csv", "app/locale/en_US/Apptrian_Minify.csv"],
-            ["lib/Apptrian/Minify", "lib/lib/Apptrian/Minify"]
+            ["lib/Apptrian/Minify", "lib/Apptrian/Minify"]
         ]
     }
 }
